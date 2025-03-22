@@ -1,0 +1,17 @@
+body {
+    font-size: 16px; 
+    color:aliceblue;
+    background-color: #1f1f1f;
+    font-family: "Times New Roman", Times, serif;
+    padding: 25px;
+}
+h1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px grey;
+}
+nav {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.link {
+    color:aqua
+}
